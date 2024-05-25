@@ -21,7 +21,7 @@
       return {
         cards: [
           {
-            img: "src/assets/IMG-20240526-WA0034.jpg",
+            img: "https://down-id.img.susercontent.com/file/id-11134207-7quky-li0d3vafsrn4f9",
             title: "Reus Shirt",
             harga: "Rp 200.000",
             description: "Alogo"
