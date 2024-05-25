@@ -21,62 +21,62 @@
       return {
         cards: [
           {
-            img: "https://down-id.img.susercontent.com/file/id-11134207-7quky-li0d3vafsrn4f9",
+            img: "https://down-id.img.susercontent.com/file/id-11134207-7qukz-lhxmo4v97cyc61",
             title: "Reus Shirt",
             harga: "Rp 200.000",
             description: "Alogo"
           },
           {
-            img: "src/assets/IMG-20240526-WA0035.jpg",
+            img: "https://down-id.img.susercontent.com/file/sg-11134201-22120-egegyfktoplve2",
             title: "Reus Shirt",
             harga: "Rp 200.000",
             description: "Guitarist"
           },
           {
-            img: "src/assets/IMG-20240526-WA0036.jpg",
+            img: "https://down-id.img.susercontent.com/file/sg-11134201-22120-7dbeevhhoplv97",
             title: "Reus Shirt",
             harga: "Rp 200.000",
             description: "Borealis"
           },
           {
-            img: "src/assets/IMG-20240526-WA0037.jpg",
+            img: "https://down-id.img.susercontent.com/file/id-11134207-7qul0-lhxmo4v9ilm237",
             title: "Reus Shirt",
             harga: "Rp 200.000",
             description: "Ne Bona"
           },
           {
-            img: "src/assets/IMG-20240526-WA0038.jpg",
+            img: "https://down-id.img.susercontent.com/file/id-11134207-7qul0-lhxmo4v9fsd00a",
             title: "Reus Shirt",
             harga: "Rp 200.000",
             description: "Demeter"
           },
           {
-            img: "src/assets/IMG-20240526-WA0039.jpg",
+            img: "https://down-id.img.susercontent.com/file/id-11134207-7qula-li0d97cke4icac",
             title: "Reus Shirt",
             harga: "Rp 200.000",
             description: "Manbe"
           },
           {
-            img: "src/assets/IMG-20240526-WA0040.jpg",
+            img: "https://down-id.img.susercontent.com/file/sg-11134201-22120-d65vxq3eoplvb4",
             title: "Reus Shirt",
             harga: "Rp 200.000",
             description: "BlueRage"
           },
           {
-            img: "src/assets/IMG-20240526-WA0041.jpg",
+            img: "https://down-id.img.susercontent.com/file/id-11134207-7qula-li0d0hr3hxisb9",
             title: "Reus Shirt",
             harga: "Rp 200.000",
             description: "Blait"
           },
           {
-            img: "src/assets/IMG-20240526-WA0042.jpg",
+            img: "https://down-id.img.susercontent.com/file/id-11134207-7qul7-li0d0hr3m584e1",
             title: "Reus Shirt",
             harga: "Rp 200.000",
             description: "Bluece"
           },
           // Four new cards
           {
-            img: "public/WhatsApp Image 2024-05-26 at 01.33.33_8c723a61.jpg",
+            img: "https://down-id.img.susercontent.com/file/id-11134207-7qul8-li0d97ckqrmc67",
             title: "Reus Shirt",
             harga: "Rp 200.000",
             description: "Russel"

@@ -7,10 +7,10 @@
       navigation
       infinite
     >
-      <q-carousel-slide :name="1" img-src="public/WhatsApp Image 2024-05-26 at 01.33.33_a29939c4.jpg" class="carousel-img" />
-      <q-carousel-slide :name="2" img-src="public/WhatsApp Image 2024-05-26 at 01.33.33_8c723a61.jpg" class="carousel-img" />
-      <q-carousel-slide :name="3" img-src="public/WhatsApp Image 2024-05-26 at 01.33.33_ca00a96d.jpg" class="carousel-img" />
-      <q-carousel-slide :name="4" img-src="public/WhatsApp Image 2024-05-26 at 01.33.33_b33c936a.jpg" class="carousel-img" />
+        <q-carousel-slide :name="1" img-src="https://down-id.img.susercontent.com/file/id-11134207-7quky-li0d3vafsrn4f9" class="carousel-img" />
+        <q-carousel-slide :name="2" img-src="https://down-id.img.susercontent.com/file/sg-11134201-22120-rohabay0oplv05" class="carousel-img" />
+        <q-carousel-slide :name="3" img-src="https://down-id.img.susercontent.com/file/sg-11134201-22120-y52btabtpplv95"class="carousel-img" />
+        <q-carousel-slide :name="4" img-src="https://down-id.img.susercontent.com/file/id-11134207-7qukw-lhxmo4v9a67e02" class="carousel-img" />
     </q-carousel>
   </div>
 </template>
